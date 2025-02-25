@@ -6,28 +6,6 @@ Fetch API sandbox with three buttons
 
 Fetch API sandbox with three buttons
 
-## Getting Started
-
-### Dependencies
-
-* 
-* 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-none
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-none
-```
-
 ## Authors
 
 Aleksandra Morrison
